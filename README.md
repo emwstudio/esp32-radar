@@ -32,8 +32,7 @@
 
 ## 硬件
 
-- 微雪 [ESP32-S3-Touch-AMOLED-2.16](https://www.waveshare.com/esp32-s3-touch-amoled-2.16.htm?&aff_id=187437)（ESP32-S3 + 480×480 AMOLED 圆屏 + 电容触摸 + ES8311 音频 Codec + 功放 + 锂电池接口）
-- 外接小喇叭（板载功放直推）
+- 微雪 [ESP32-S3-Touch-AMOLED-2.16](https://www.waveshare.com/esp32-s3-touch-amoled-2.16.htm?&aff_id=187437)（ESP32-S3 + 480×480 AMOLED 圆屏 + 电容触摸 + ES8311 音频 Codec + 功放 + 喇叭 + 锂电池接口）
 
 ## 数据来源
 
