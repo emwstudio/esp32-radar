@@ -2,9 +2,11 @@
 
 在一块 2.16 寸 AMOLED 圆屏上还原机场塔台雷达：实时显示头顶 120 海里内的航班，有飞机进入 30 公里圈时，自动用**塔台管制员的克隆音色**语音播报航班动态。
 
+![demo](docs/demo.gif)
+
 ![radar](docs/radar.jpg)
 
-演示视频：[docs/demo.mp4](docs/demo.mp4)
+完整演示视频（带播报声音）：[docs/demo.mp4](docs/demo.mp4)
 
 ## 效果
 
