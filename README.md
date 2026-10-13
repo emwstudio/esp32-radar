@@ -28,7 +28,7 @@
   → ES8311 功放播出，屏幕左下角 TX 同步点亮
 ```
 
-MiniCPM5-2B（20 亿参数）和 VoxCPM2 均为面壁智能的端侧模型，整条"数据 → 文案 → 语音"链路都可以部署在自己的设备上。
+[MiniCPM5-2B](https://huggingface.co/openbmb/MiniCPM5-2B)（20 亿参数）和 [VoxCPM2](https://huggingface.co/openbmb/VoxCPM2) 均为面壁智能的端侧模型，整条"数据 → 文案 → 语音"链路都可以部署在自己的设备上。
 
 ## 硬件
 
