@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+.DS_Store
+include/secrets.h
+src/atc_ref.h
