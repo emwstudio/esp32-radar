@@ -74,6 +74,10 @@ xxd -i ref.wav | sed 's/unsigned char ref_wav/static const uint8_t ATC_REF_WAV[]
 
 首次开机（或连不上 WiFi）设备会开启 `HGH-RADAR` 热点，手机加入后访问 `192.168.4.1`，在网页里填 WiFi 凭据和**雷达中心 GPS 坐标**（默认杭州萧山机场 30.2295, 120.4344），保存后自动重启生效。
 
+## 开发记录
+
+这个项目从点亮屏幕、打磨雷达 UI，到接入航班数据、调教克隆音色，全程都是与 Kimi Code 对话完成的，没有手写一行代码。完整的开发过程已做成视频，在 **B 站 / X / YouTube 搜索「电磁波Studio」** 即可观看。
+
 ## 致谢
 
 - 雷达 UI 灵感：[micro-radar](https://github.com/AnthonySturdy/micro-radar)、[ESP32-Plane-Radar](https://github.com/RockBase-iot/ESP32-Plane-Radar)
